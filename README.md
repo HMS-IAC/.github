@@ -1,1 +1,3 @@
-# Harvard Medical School's Image Analysis Collaboratory
+# I.A.C.
+
+The Image Analysis Collaboratory at Harvard Medical School
