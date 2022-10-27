@@ -1,3 +1,1 @@
-# .github
-
-Harvard Medical School's Image Analysis Collaboratory
+# Harvard Medical School's Image Analysis Collaboratory
