@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to the repository of the **Image Analysis Collaboratoy** at Harvard Medical School.  
-Not populated yet, we are still grearing up.  
+Not populated yet, we are still gearing up.  
 Thank you for visting.
 
 
